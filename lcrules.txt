@@ -1,5 +1,5 @@
-# Title: HaGeZi's Light DNS Blocklist
-# Description: Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware.
+# Title: DNS Blocklist
+# Description: based on HaGeZi's Light  - Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
